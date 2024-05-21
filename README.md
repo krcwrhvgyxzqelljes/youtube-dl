@@ -5,6 +5,7 @@ Adds :
 sudo apt install pandoc 
 make
 sudo make install
+python3 youtube-dl https://youtu.be/8ui9umU0C2g?list=RD8ui9umU0C2g
 ```
 
 youtube-dl - download videos from youtube.com or other video platforms
