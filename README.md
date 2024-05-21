@@ -2,6 +2,7 @@
 
 ```
 Adds :
+git clone https://github.com/krcwrhvgyxzqelljes/youtube-dl.git
 sudo apt install pandoc 
 make
 sudo make install
